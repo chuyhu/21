@@ -1,0 +1,6 @@
+[submodule "android_utils"]
+	path = android_utils
+	url = https://github.com/kenvix/android_utils.git
+[submodule "annotation_preprocessor"]
+	path = annotation_preprocessor
+	url = https://github.com/kenvix/annotation_preprocessor.git
